@@ -30,7 +30,7 @@ public class HelloWordController {
 		logger.debug("记录debug日志");
 		logger.info("记录info日志");
 		logger.error("记录error日志");
-		System.out.println("=====返回了===========");
+		System.out.println("=====返回了o===========");
 		return "ddd";
 		
 	}
